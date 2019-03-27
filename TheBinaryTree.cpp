@@ -1,4 +1,10 @@
-﻿#include <iostream>
+/*
+*
+* by UnitedTimur (c) 2019
+*
+*/
+
+#include <iostream>
 #include "tree.h"
 #include <ctime>
 using namespace std;
