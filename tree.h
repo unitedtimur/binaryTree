@@ -1,3 +1,9 @@
+/*
+*
+* by UnitedTimur (c) 2019
+*
+*/
+
 #ifndef _TREE_H
 #define _TREE_H
 
