@@ -1,3 +1,9 @@
+/*
+*
+* by UnitedTimur (c) 2019
+*
+*/
+
 #ifndef _NODE_H
 #define _NODE_H
 
