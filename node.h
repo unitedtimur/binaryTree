@@ -16,7 +16,7 @@ public:
 private:
 	T data;
 	node<T> * left,
-		    * right;
+		* right;
 };
 
 template<typename T>
